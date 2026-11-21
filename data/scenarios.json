@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s1",
+    "type": "scenario",
+    "text": "Roommate's friends over at 2am on a Tuesday",
+    "emoji": "🎉",
+    "trait": "guests",
+    "rightValue": 0.9
+  },
+  {
+    "id": "s2",
+    "type": "scenario",
+    "text": "Dishes sit in the sink overnight",
+    "emoji": "🍽️",
+    "trait": "clean",
+    "rightValue": 0.2
+  },
+  {
+    "id": "s3",
+    "type": "scenario",
+    "text": "Roommate wakes up at 6am for the gym",
+    "emoji": "🏋️",
+    "trait": "sleep",
+    "rightValue": 0.1
+  },
+  {
+    "id": "s4",
+    "type": "scenario",
+    "text": "Music playing without headphones",
+    "emoji": "🔊",
+    "trait": "noise",
+    "rightValue": 0.8
+  },
+  {
+    "id": "s5",
+    "type": "scenario",
+    "text": "Roommate studies at home every night",
+    "emoji": "📚",
+    "trait": "study",
+    "rightValue": 0.9
+  },
+  {
+    "id": "s6",
+    "type": "scenario",
+    "text": "Partner sleeps over 4 nights a week",
+    "emoji": "🛋️",
+    "trait": "guests",
+    "rightValue": 0.8
+  },
+  {
+    "id": "s7",
+    "type": "scenario",
+    "text": "Vacuuming happens once a month",
+    "emoji": "🧹",
+    "trait": "clean",
+    "rightValue": 0.2
+  },
+  {
+    "id": "s8",
+    "type": "scenario",
+    "text": "Gaming with voice chat until midnight",
+    "emoji": "🎮",
+    "trait": "noise",
+    "rightValue": 0.8
+  },
+  {
+    "id": "s9",
+    "type": "scenario",
+    "text": "Splitting a $1,000+/mo apartment each",
+    "emoji": "💸",
+    "trait": "budget",
+    "rightValue": 0.9
+  },
+  {
+    "id": "s10",
+    "type": "scenario",
+    "text": "Lights off by 11pm",
+    "emoji": "🌙",
+    "trait": "sleep",
+    "rightValue": 0.2
+  },
+  {
+    "id": "s11",
+    "type": "scenario",
+    "text": "Weekend parties at your place",
+    "emoji": "🪩",
+    "trait": "guests",
+    "rightValue": 0.9
+  },
+  {
+    "id": "s12",
+    "type": "scenario",
+    "text": "Shoes and clothes left in shared space",
+    "emoji": "👟",
+    "trait": "clean",
+    "rightValue": 0.2
+  },
+  {
+    "id": "s13",
+    "type": "scenario",
+    "text": "Silent apartment during finals week",
+    "emoji": "🤫",
+    "trait": "noise",
+    "rightValue": 0.1
+  },
+  {
+    "id": "s14",
+    "type": "scenario",
+    "text": "Roommate works from home all day",
+    "emoji": "💻",
+    "trait": "study",
+    "rightValue": 0.9
+  },
+  {
+    "id": "s15",
+    "type": "scenario",
+    "text": "Cheapest place possible, even if far away",
+    "emoji": "🚌",
+    "trait": "budget",
+    "rightValue": 0.1
+  }
+]
